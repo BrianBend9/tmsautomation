@@ -1,0 +1,23 @@
+﻿{
+  "InstalledPluginNames": [
+    "DiscountRequirement.MustBeAssignedToCustomerRole",
+    "CurrencyExchange.ECB",
+    "Misc.SendinBlue",
+    "Payments.CheckMoneyOrder",
+    "Payments.Manual",
+    "Payments.PayPalStandard",
+    "Payments.Square",
+    "Pickup.PickupInStore",
+    "Shipping.FixedByWeightByTotal",
+    "Shipping.UPS",
+    "Tax.Avalara",
+    "Tax.FixedOrByCountryStateZip",
+    "Widgets.GoogleAnalytics",
+    "Widgets.NivoSlider",
+    "SevenSpikes.Core",
+    "SevenSpikes.Nop.Plugins.MegaMenu"
+  ],
+  "PluginNamesToUninstall": [],
+  "PluginNamesToDelete": [],
+  "PluginNamesToInstall": []
+}

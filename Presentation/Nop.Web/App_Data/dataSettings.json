@@ -1,0 +1,5 @@
+﻿{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=B1F1B;Initial Catalog=tmsautom_4.20;Integrated Security=False;Persist Security Info=False;User ID=tmsautom_admin;Password=tot@lmeter6697010",
+  "RawDataSettings": {}
+}
